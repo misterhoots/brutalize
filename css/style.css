@@ -1,0 +1,15 @@
+/* h1, h2, h3, a { color:pink; }
+
+* {
+  font-family: Serif;
+  text-decoraton:uppercase;
+  font-size:20px;
+}
+
+div:nth-child(1) {
+  background-color:red;
+  position:absolute;
+  left:0;
+  top:0;
+  width:37%;
+} */
